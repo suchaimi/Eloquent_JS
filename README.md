@@ -2,4 +2,6 @@
 
 ## To Do :
 
-[] Values, Types and Operators
+- [x] Values, Types and Operators
+
+
